@@ -81,7 +81,6 @@ This project demonstrates secure mobile application development using Flutter an
 
 ---
 
-##  Application Functionality
 ![Functionality](screenshots/functionality.jpeg)
 
 ## Developer
