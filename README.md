@@ -39,28 +39,25 @@ This project demonstrates secure mobile application development using Flutter an
 * Admin Dashboard
 * Enhanced Security Features
 
-# 📸 Application Screenshots
+## 📱 Application Screenshots
 
-| Front Page | Login Page |
-|------------|------------|
-| <img src="screenshots/frontpage.jpeg" width="250"> | <img src="screenshots/login.jpeg" width="250"> |
+<p align="center">
+  <img src="screenshots/frontpage.jpeg" width="200"/>
+  <img src="screenshots/login.jpeg" width="200"/>
+  <img src="screenshots/signuppage.jpeg" width="200"/>
+</p>
 
-| Sign Up | Additional Details |
-|---------|-------------------|
-| <img src="screenshots/signuppage.jpeg" width="250"> | <img src="screenshots/signuppageextrare.jpeg" width="250"> |
+<p align="center">
+  <img src="screenshots/signuppageextrare.jpeg" width="200"/>
+  <img src="screenshots/emailpage.jpeg" width="200"/>
+  <img src="screenshots/insider.jpeg" width="200"/>
+</p>
 
-| Email Verification | Home |
-|--------------------|------|
-| <img src="screenshots/emailpage.jpeg" width="250"> | <img src="screenshots/insider.jpeg" width="250"> |
-
-| Chat | Profile |
-|------|---------|
-| <img src="screenshots/chat.jpeg" width="250"> | <img src="screenshots/profile.jpeg" width="250"> |
-
-| Features |
-|----------|
-| <img src="screenshots/functionality.jpeg" width="250"> |
-
+<p align="center">
+  <img src="screenshots/chat.jpeg" width="200"/>
+  <img src="screenshots/profile.jpeg" width="200"/>
+  <img src="screenshots/functionality.jpeg" width="200"/>
+</p>
 
 ## Developer
 
