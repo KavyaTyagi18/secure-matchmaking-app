@@ -39,6 +39,51 @@ This project demonstrates secure mobile application development using Flutter an
 * Admin Dashboard
 * Enhanced Security Features
 
+# Application Screenshots
+
+##  Splash Screen
+![Splash Screen](screenshots/frontpage.jpeg)
+
+---
+
+##  Login Screen
+![Login](screenshots/login.jpeg)
+
+---
+
+##  Sign Up Screen
+![Signup](screenshots/signuppage.jpeg)
+
+---
+
+##  Additional Sign Up Details
+![Signup Extra](screenshots/signuppageextrare.jpeg)
+
+---
+
+##  Email Verification
+![Email Verification](screenshots/emailpage.jpeg)
+
+---
+
+##  Main Application Screen
+![Main Screen](screenshots/insider.jpeg)
+
+---
+
+##  Chat Screen
+![Chat](screenshots/chat.jpeg)
+
+---
+
+##  User Profile
+![Profile](screenshots/profile.jpeg)
+
+---
+
+##  Application Functionality
+![Functionality](screenshots/functionality.jpeg)
+
 ## Developer
 
 **Kavya Tyagi**
