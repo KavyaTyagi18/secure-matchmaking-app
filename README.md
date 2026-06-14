@@ -2,6 +2,19 @@
 
 A secure matchmaking application developed using **Flutter** and **Firebase**, designed to provide a safe and user-friendly platform for connecting people. The application focuses on secure authentication, verified user accounts, real-time communication, and data privacy.
 
+# 💖 Secure Matchmaking App
+
+![Flutter](https://img.shields.io/badge/Flutter-3.x-blue?style=for-the-badge&logo=flutter)
+![Firebase](https://img.shields.io/badge/Firebase-Backend-orange?style=for-the-badge&logo=firebase)
+![Dart](https://img.shields.io/badge/Dart-Language-0175C2?style=for-the-badge&logo=dart)
+![Authentication](https://img.shields.io/badge/Firebase-Authentication-yellow?style=for-the-badge)
+![AES Encryption](https://img.shields.io/badge/AES-256_Encryption-red?style=for-the-badge)
+![Chat](https://img.shields.io/badge/Real_Time-Chat-success?style=for-the-badge)
+![Status](https://img.shields.io/badge/Online_Offline-Users-green?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-brightgreen?style=for-the-badge)
+
+---
+
 ##  Features
 
 *  Secure Email & Password Authentication using Firebase Authentication
