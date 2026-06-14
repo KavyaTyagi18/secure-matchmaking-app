@@ -79,9 +79,6 @@ This project demonstrates secure mobile application development using Flutter an
 ##  User Profile
 ![Profile](screenshots/profile.jpeg)
 
----
-
-![Functionality](screenshots/functionality.jpeg)
 
 ## Developer
 
