@@ -39,26 +39,29 @@ This project demonstrates secure mobile application development using Flutter an
 * Admin Dashboard
 * Enhanced Security Features
 
-## 📱 Application Screenshots
+##  Application Screenshots
 
 <p align="center">
-  <img src="screenshots/frontpage.jpeg" width="200"/>
-  <img src="screenshots/login.jpeg" width="200"/>
-  <img src="screenshots/signuppage.jpeg" width="200"/>
+  <img src="screenshots/frontpage.jpeg" width="220" hspace="20"/>
+  <img src="screenshots/login.jpeg" width="220" hspace="20"/>
+  <img src="screenshots/signuppage.jpeg" width="220" hspace="20"/>
 </p>
+
+<br>
 
 <p align="center">
-  <img src="screenshots/signuppageextrare.jpeg" width="200"/>
-  <img src="screenshots/emailpage.jpeg" width="200"/>
-  <img src="screenshots/insider.jpeg" width="200"/>
+  <img src="screenshots/signuppageextrare.jpeg" width="220" hspace="20"/>
+  <img src="screenshots/emailpage.jpeg" width="220" hspace="20"/>
+  <img src="screenshots/insider.jpeg" width="220" hspace="20"/>
 </p>
+
+<br>
 
 <p align="center">
-  <img src="screenshots/chat.jpeg" width="200"/>
-  <img src="screenshots/profile.jpeg" width="200"/>
-  <img src="screenshots/functionality.jpeg" width="200"/>
+  <img src="screenshots/chat.jpeg" width="220" hspace="20"/>
+  <img src="screenshots/profile.jpeg" width="220" hspace="20"/>
+  <img src="screenshots/functionality.jpeg" width="220" hspace="20"/>
 </p>
-
 ## Developer
 
 **Kavya Tyagi**
