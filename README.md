@@ -60,7 +60,7 @@ This project demonstrates secure mobile application development using Flutter an
 <p align="center">
   <img src="screenshots/chat.jpeg" width="220" hspace="20"/>
   <img src="screenshots/profile.jpeg" width="220" hspace="20"/>
-  <img src="screenshots/functionality.jpeg" width="220" hspace="20"/>
+  <img src="screenshots/fuctionality.jpeg" width="220"/>
 </p>
 ## Developer
 
