@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "670371597542",
+    "project_id": "meet-cute-dating-app",
+    "storage_bucket": "meet-cute-dating-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670371597542:android:3b607b530abb584a00ff27",
+        "android_client_info": {
+          "package_name": "com.example.franchiso_vs_code"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC124xuc9XMQnIiIonQEg8JvheTbI9mqw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
